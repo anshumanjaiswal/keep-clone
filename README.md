@@ -1,6 +1,6 @@
 <h1>KEEP- CLONE</h1>
 
-<p>View Live Demo<p>
+<h2>View Live Demo<h2>
 
-<input>https://cute-palmier-931b08.netlify.app/</input>
+https://cute-palmier-931b08.netlify.app/
 
